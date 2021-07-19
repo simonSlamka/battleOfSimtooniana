@@ -1,2 +1,2 @@
 # battleOfSimtooniana
- This is primarily going to be a personal exercise project.
+ This is primarily a personal exercise project.
