@@ -1835,3 +1835,41 @@ Sky Sphere
 [2021.07.19-22.25.17:512][152]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Simtoonians/BP_SimtoonianCharacter.BP_SimtoonianCharacter
 [2021.07.19-22.25.18:182][152]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.07.19-22.25.50:951][491]Cmd: MODE GRID=0
+[2021.07.19-22.26.04:281][507]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2021.07.19-22.26.04:350][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Simtoonians/BP_SimtoonianCharacter" FILE="../../../../battleOfSimtooniana/BoS/Content/BP/Simtoonians/BP_SimtoonianCharacter.uasset" SILENT=true
+[2021.07.19-22.26.04:369][507]LogSavePackage: Moving '../../../../battleOfSimtooniana/BoS/Saved/BP_SimtoonianCharacter9EAFB8BD41A8647C7EACE2B65CD71ED6.tmp' to '../../../../battleOfSimtooniana/BoS/Content/BP/Simtoonians/BP_SimtoonianCharacter.uasset'
+[2021.07.19-22.26.04:393][507]AssetCheck: New page: Asset Save: BP_SimtoonianCharacter
+[2021.07.19-22.26.04:393][507]LogContentValidation: Display: Validating Blueprint /Game/BP/Simtoonians/BP_SimtoonianCharacter.BP_SimtoonianCharacter
+[2021.07.19-22.26.05:301][546]BlueprintLog: New page: Compile BP_SimtoonianCharacter
+[2021.07.19-22.26.05:430][546]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.07.19-22.26.05:944][564]LogUObjectHash: Compacting FUObjectHashTables data took   7.15ms
+[2021.07.19-22.26.17:647][457]BlueprintLog: New page: Compile BP_SimtoonianCharacter
+[2021.07.19-22.26.17:711][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.07.19-22.26.18:648][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.07.19-22.26.18:702][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Simtoonians/BP_SimtoonianCharacter" FILE="../../../../battleOfSimtooniana/BoS/Content/BP/Simtoonians/BP_SimtoonianCharacter.uasset" SILENT=true
+[2021.07.19-22.26.18:722][547]LogSavePackage: Moving '../../../../battleOfSimtooniana/BoS/Saved/BP_SimtoonianCharacter5FBFD3AE4F745F15D3C35486C5838766.tmp' to '../../../../battleOfSimtooniana/BoS/Content/BP/Simtoonians/BP_SimtoonianCharacter.uasset'
+[2021.07.19-22.26.18:742][547]AssetCheck: New page: Asset Save: BP_SimtoonianCharacter
+[2021.07.19-22.26.18:742][547]LogContentValidation: Display: Validating Blueprint /Game/BP/Simtoonians/BP_SimtoonianCharacter.BP_SimtoonianCharacter
+[2021.07.19-22.26.19:447][614]LogSlate: Window 'BP_SimtoonianCharacter' being destroyed
+[2021.07.19-22.26.19:457][614]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.19-22.26.19:457][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.19-22.26.23:958][112]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Regulars/BP_RegularCharacter.BP_RegularCharacter
+[2021.07.19-22.26.26:333][317]LogSlate: Window 'BP_RegularCharacter' being destroyed
+[2021.07.19-22.26.26:339][317]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.19-22.26.26:339][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.19-22.26.26:392][317]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Regulars/BP_RegularCharacter.BP_RegularCharacter
+[2021.07.19-22.26.47:534][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.07.19-22.26.47:574][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Regulars/BP_RegularCharacter" FILE="../../../../battleOfSimtooniana/BoS/Content/BP/Regulars/BP_RegularCharacter.uasset" SILENT=true
+[2021.07.19-22.26.47:588][181]LogSavePackage: Moving '../../../../battleOfSimtooniana/BoS/Saved/BP_RegularCharacterF1228E534D9458CEC344D1A71B380444.tmp' to '../../../../battleOfSimtooniana/BoS/Content/BP/Regulars/BP_RegularCharacter.uasset'
+[2021.07.19-22.26.47:606][181]AssetCheck: New page: Asset Save: BP_RegularCharacter
+[2021.07.19-22.26.47:606][181]LogContentValidation: Display: Validating Blueprint /Game/BP/Regulars/BP_RegularCharacter.BP_RegularCharacter
+[2021.07.19-22.26.56:997][749]BlueprintLog: New page: Compile BP_RegularCharacter
+[2021.07.19-22.26.57:064][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.07.19-22.26.57:436][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Regulars/BP_RegularCharacter" FILE="../../../../battleOfSimtooniana/BoS/Content/BP/Regulars/BP_RegularCharacter.uasset" SILENT=true
+[2021.07.19-22.26.57:446][784]LogSavePackage: Moving '../../../../battleOfSimtooniana/BoS/Saved/BP_RegularCharacter427E66AB452686B50B41E696BE484988.tmp' to '../../../../battleOfSimtooniana/BoS/Content/BP/Regulars/BP_RegularCharacter.uasset'
+[2021.07.19-22.26.57:456][784]AssetCheck: New page: Asset Save: BP_RegularCharacter
+[2021.07.19-22.26.57:456][784]LogContentValidation: Display: Validating Blueprint /Game/BP/Regulars/BP_RegularCharacter.BP_RegularCharacter
+[2021.07.19-22.26.59:942][ 15]LogSlate: Window 'BP_RegularCharacter' being destroyed
+[2021.07.19-22.26.59:948][ 15]LogSlate: Window 'BP_RegularCharacter' being destroyed
+[2021.07.19-22.26.59:950][ 15]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.19-22.26.59:950][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
